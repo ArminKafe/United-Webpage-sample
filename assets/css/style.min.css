@@ -10187,7 +10187,11 @@ letter-spacing:0px;
 }
 @media only screen and (max-width:479px) {
  .intro9-content .sub-title {
-  font-size:20px
+  margin-right: 35px;
+  margin-left: 35px;
+  margin-bottom: 5px;
+  font-size:35px;
+  font-weight: 600;
  }
 }
 .intro9-content .title {
@@ -10204,6 +10208,8 @@ letter-spacing:0px;
     margin: 0;
     font-family: 'Barlow Semi Condensed', sans-serif;
     font-size: 36px;
+    margin-right: 35px;
+    margin-left: 35px;
     font-weight: 400;
     text-transform:uppercase;
     color: #1d2c66;
@@ -10239,6 +10245,8 @@ letter-spacing:0px;
 }
 .intro9-content .desc p {
  font-size:18px;
+ margin-left: 35px;
+ margin-right: 35px;
  font-weight:500;
  line-height:1.67;
  color:#8c89a2
@@ -10273,7 +10281,8 @@ letter-spacing:0px;
   text-align:center
  }
  .inner-img-two img {
-  max-width:450px
+  max-width:350px;
+  max-height: 350px;
  }
 }
 .worldRotate {
