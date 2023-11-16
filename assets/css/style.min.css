@@ -10174,7 +10174,7 @@ letter-spacing:0px;
  display:block;
  font-size:56px;
  line-height:50px;
- font-weight:500;
+ font-weight:600;
  text-transform: uppercase;
  color: #1d2c66;
  text-align: center;
@@ -10245,8 +10245,7 @@ letter-spacing:0px;
 }
 .intro9-content .desc p {
  font-size:18px;
- margin-left: 35px;
- margin-right: 35px;
+ margin-left: 150px;
  font-weight:500;
  line-height:1.67;
  color:#8c89a2
@@ -16673,6 +16672,7 @@ letter-spacing:0px;
 }
 .service .image img {
  width:100%;
+
  -webkit-transition:all 1.5s cubic-bezier(0,0,.2,1);
  -o-transition:all 1.5s cubic-bezier(0,0,.2,1);
  transition:all 1.5s cubic-bezier(0,0,.2,1)
@@ -20746,7 +20746,7 @@ justify-content: center;
  color:rgba(105,105,105,.5)
 }
 .footer-social-inline a i {
- font-size:24px;
+ font-size:28px;
  line-height:1;
  display:block
 }
@@ -20910,6 +20910,3 @@ justify-content: center;
     justify-content: center;
     
   }
-
-
-  
